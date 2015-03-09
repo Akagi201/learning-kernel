@@ -4,6 +4,7 @@
  * @date 2015/03/09
  *
  * gcc -g test2.c -o test2
+ * objdump -S test2
  */
 
 #include <stdio.h>
@@ -25,6 +26,6 @@ int main(void) {
     y = 2;
     z = p2(x, y);
     printf("%d + %d = %d\n", x, y, z);
-    
+
     return 0;
 }

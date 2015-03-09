@@ -4,6 +4,7 @@
  * @date 2015/03/09
  *
  * gcc -g test1.c -o test1
+ * objdump -S test1
  */
 
 #include <stdio.h>
