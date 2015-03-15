@@ -5,6 +5,7 @@
  *
  * mykernel--Simple simulation of the linux OS  process schedule
  * Kernel internal my_timer_handler
+ * 描述了精彩控制块的定义
  */
 
 #ifndef MYPCB_H_

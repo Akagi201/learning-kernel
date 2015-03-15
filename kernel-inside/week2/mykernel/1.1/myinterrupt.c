@@ -5,8 +5,8 @@
  *
  * mykernel--Simple simulation of the linux OS  process schedule
  * Kernel internal my_timer_handler
+ * 主要负责中断以及进程切换
  */
-
 
 #include <linux/kernel_stat.h>
 #include <linux/export.h>

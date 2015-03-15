@@ -5,6 +5,7 @@
  *
  * mykernel--Simple simulation of the linux OS  process schedule
  * Kernel internal my_timer_handler
+ * 初始化系统环境
  */
 
 #include <linux/types.h>
